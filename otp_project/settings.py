@@ -36,6 +36,7 @@ INSTALLED_APPS = [
     'accounts',
     'products',
     'payout',
+    'cart',
 ]
 
 # ✅ Middleware
